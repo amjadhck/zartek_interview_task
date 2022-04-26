@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "279359030580",
+    "project_id": "zartek-interview-task",
+    "storage_bucket": "zartek-interview-task.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:279359030580:android:632c11cb413fa10fce5161",
+        "android_client_info": {
+          "package_name": "com.example.zartek_interview_task"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "279359030580-2fuvb31an4iraumvm0dev1rpfjuk02o8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBU2W9CW5SFpJW0lQNICtl8gRWVzCq0RB8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "279359030580-2fuvb31an4iraumvm0dev1rpfjuk02o8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "279359030580-02ragdfl5uvj6mn2ci341uiag3ll12bm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.zartekInterviewTask"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
